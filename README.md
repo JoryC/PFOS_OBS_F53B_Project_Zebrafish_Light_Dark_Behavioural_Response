@@ -10,9 +10,11 @@ The Output subdirectory contains the results of the ANOVA and post-hoc Dunnett's
 
 In the Data subdirectory, the raw data and metadata can be found in two seperate spreadsheets.
 
-![Exposure Layout](https://github.com/JoryC/PFOS_OBS_F53B_Project_Zebrafish_Light_Dark_Behavioural_Response/blob/master/5-Day_Exposure_Layout_Hyojin.png "Figure 1: A graphical Respresentation of how the exposure was conducted over 5 days with semi-static renewal in glass petri dishes")
+![Exposure Layout](https://github.com/JoryC/PFOS_OBS_F53B_Project_Zebrafish_Light_Dark_Behavioural_Response/blob/master/5-Day_Exposure_Layout_Hyojin.png)
+Figure 1: A graphical Respresentation of how the exposure was conducted over 5 days with semi-static renewal in glass petri dishes
 
-![Plate-Layout](https://github.com/JoryC/PFOS_OBS_F53B_Project_Zebrafish_Light_Dark_Behavioural_Response/blob/master/96-Well_Plate_Layout_Hyojin.png "Figure 2: The 96-well plate layout after transfering larvae into wells. This is the layout used for the viewpoint ZebraLab software for this experiment")
+![Plate-Layout](https://github.com/JoryC/PFOS_OBS_F53B_Project_Zebrafish_Light_Dark_Behavioural_Response/blob/master/96-Well_Plate_Layout_Hyojin.png)
+Figure 2: The 96-well plate layout after transfering larvae into wells. This is the layout used for the viewpoint ZebraLab software for this experiment
 
 ![Photoperiod-Description](https://github.com/JoryC/PFOS_OBS_F53B_Project_Zebrafish_Light_Dark_Behavioural_Response/blob/master/Protocol_Description.png)
 
